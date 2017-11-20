@@ -1,5 +1,7 @@
 # DustJS for Lambda Framework
 
+[![Coverage Status](https://coveralls.io/repos/github/rogelio-o/lambda-framework-dustjs/badge.svg?branch=master)](https://coveralls.io/github/rogelio-o/lambda-framework-dustjs?branch=master) [![Build Status](https://travis-ci.org/rogelio-o/lambda-framework-dustjs.svg?branch=master)](https://travis-ci.org/rogelio-o/lambda-framework-dustjs)
+
 DustJS template engine implementation for Lambda Framework.
 
 ## How to use it?

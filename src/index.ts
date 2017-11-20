@@ -5,4 +5,4 @@
  */
 
 export { default } from "./lib/DustTemplateRenderer";
-export { default as DustTemplateRendererOptions } from "./lib/DustTemplateRendererOptions";
+export { default as IDustTemplateRendererOptions } from "./lib/IDustTemplateRendererOptions";
