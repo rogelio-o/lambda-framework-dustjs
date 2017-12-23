@@ -10,6 +10,9 @@ TODO
 
 ## Lambda Framework projects
 
+Lambda Framework is very modular. This is because the lambda functions have to be
+lightweight. You can use the projects you need in your web application.
+
 - [Core](https://github.com/rogelio-o/lambda-framework)
 - [AWS Lambda implementation](https://github.com/rogelio-o/lambda-framework-aws)
 - [DustJS template engine implementation for Lambda Framework](https://github.com/rogelio-o/lambda-framework-dustjs)
