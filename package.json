@@ -1,6 +1,6 @@
 {
   "name": "lambda-framework-dustjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DustJS template engine implementation for Lambda Framework.",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -37,14 +37,16 @@
     "mocha": "^3.5.3",
     "mock-fs": "^4.4.2",
     "nyc": "^11.3.0",
+    "sinon": "^4.0.2",
     "tslint": "^5.7.0",
     "tslint-microsoft-contrib": "^5.0.1",
-    "typescript": "^2.5.2"
+    "typescript": "^2.5.2",
+    "npm-auto-version": "^1.0.0"
   },
   "dependencies": {
     "dustjs-helpers": "^1.7.3",
     "dustjs-linkedin": "^2.7.5",
-    "lambda-framework": "^1.0.17"
+    "lambda-framework": "^1.0.22"
   },
   "nyc": {
     "exclude": [
