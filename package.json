@@ -46,7 +46,7 @@
   "dependencies": {
     "dustjs-helpers": "^1.7.3",
     "dustjs-linkedin": "^2.7.5",
-    "lambda-framework": "^1.0.22"
+    "lambda-framework": "^1.1.0"
   },
   "nyc": {
     "exclude": [
