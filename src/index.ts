@@ -4,5 +4,5 @@
  * MIT Licensed
  */
 
-export { default } from "./lib/DustTemplateRenderer";
+export { default as DustTemplateRenderer } from "./lib/DustTemplateRenderer";
 export { default as IDustTemplateRendererOptions } from "./lib/IDustTemplateRendererOptions";
