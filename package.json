@@ -1,6 +1,6 @@
 {
   "name": "lambda-framework-dustjs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "DustJS template engine implementation for Lambda Framework.",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -46,7 +46,7 @@
     "@types/node": "^8.0.53",
     "dustjs-helpers": "^1.7.3",
     "dustjs-linkedin": "^2.7.5",
-    "lambda-framework": "^1.1.2"
+    "lambda-framework": "^1.2.0"
   },
   "nyc": {
     "exclude": [
