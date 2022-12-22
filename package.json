@@ -45,7 +45,7 @@
   "dependencies": {
     "@types/node": "^8.10.20",
     "dustjs-helpers": "^1.7.4",
-    "dustjs-linkedin": "^2.7.5",
+    "dustjs-linkedin": "^3.0.0",
     "lambda-framework": "^1.2.2"
   },
   "nyc": {
