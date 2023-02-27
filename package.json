@@ -36,7 +36,7 @@
     "mocha": "^5.2.0",
     "mock-fs": "^4.5.0",
     "npm-auto-version": "^1.0.0",
-    "nyc": "^11.9.0",
+    "nyc": "^15.1.0",
     "sinon": "^4.5.0",
     "tslint": "^5.10.0",
     "tslint-microsoft-contrib": "^5.0.3",
